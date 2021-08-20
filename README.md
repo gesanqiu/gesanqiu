@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌈 Innumerable stories and lovely people around me do make sense.
+
+- 🏙️ Current work in Haidian District, Beijing.
+- 🧑‍🏭 Embedded application developer, C/C++ Enthusiasts.
+- 🔧 C/C++, Python, MQTT/HTTP, Linux Kernel.
+- ❤️ Photography, ping-pong, badminton lover.
+- 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/)
+- 📧 Connect me: shenglu1202@163.com
