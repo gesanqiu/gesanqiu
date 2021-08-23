@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 - 🏙️ Current work in Haidian District, Beijing.
 - 🧑‍🏭 Embedded application developer, C/C++ Enthusiasts.
-- 🔧 C/C++, Python, MQTT/HTTP, Linux Kernel.
+- 🖥️ C/C++, Python, Go(New).
+- 🔧 Linux, Gstreamer, MQTT/HTTP, CMake, Docker.
 - ❤️ Photography, ping-pong, badminton lover.
 - 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/)
 - 📧 Connect me: shenglu1202@163.com
