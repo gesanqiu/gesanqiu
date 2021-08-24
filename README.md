@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 🌈 Innumerable stories and lovely people around me do make sense.
 
 - 🏙️ Current work in Haidian District, Beijing.
-- 🧑‍🏭 Embedded application developer, C/C++ Enthusiasts.
+- 🧑 Embedded application developer, C/C++ Enthusiasts.
 - 🖥️ C/C++, Python, Go(New).
 - 🔧 Linux, Gstreamer, MQTT/HTTP, CMake, Docker.
 - ❤️ Photography, ping-pong, badminton lover.
-- 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/)
+- 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/), [gstreamer-example](https://ricardolu.gitbook.io/gstreamer/)
 - 📧 Connect me: shenglu1202@163.com
