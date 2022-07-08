@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - ❤️ Photography, ping-pong, badminton lover.
 - 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/), [gstreamer-example](https://ricardolu.gitbook.io/gstreamer/)
 - 📧 Connect me: shenglu1202@163.com
+![](https://github-readme-stats.vercel.app/api?username={Ricardo Lu})
