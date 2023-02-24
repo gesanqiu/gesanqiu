@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🔧 Linux, Gstreamer, ffmpeg, CMake.
 - ❤️ Photography, ping-pong, badminton lover.
 - 📖 My gitbook Page:[Trantor](https://ricardolu.gitbook.io/trantor/), [gstreamer-example](https://ricardolu.gitbook.io/gstreamer/)
-- 📧 Connect me: shenglu1202@163.com
+- 📧 Contact me: shenglu1202@163.com
 
 [![Ricardo Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesanqiu)](https://github.com/anuraghazra/github-readme-stats)
