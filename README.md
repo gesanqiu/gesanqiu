@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 🌈 Innumerable stories and lovely people around me do make sense.
 
 - 🏙️ Current work in Haidian District, Beijing.
-- 🧑 Media(Video) application developer, LLM inference Acceleration.
+- 🧑 LLM inference Acceleration.
 - 🔧 C/C++, Python.
-- ❤️ Photography, ping-pong, badminton lover.
 - 📧 Contact me: shenglu1202@163.com
 
 [![Ricardo Lu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gesanqiu)](https://github.com/anuraghazra/github-readme-stats)
